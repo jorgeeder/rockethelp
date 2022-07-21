@@ -40,6 +40,8 @@
 -   **[Expo](https://expo.dev/)**
 -   **[Native Base](https://nativebase.io/)**
 -   **[Phosphor Icons](https://phosphoricons.com/)**
+-   **[Fire Base](https://firebase.google.com/)**
+
 
 
 ## Application in Use
@@ -53,7 +55,7 @@ Application layout in  **[Figma](https://www.figma.com/file/M2jZ09bh1QIkrVlw73sA
 ## Requirement
 
 -   **[Node.js](https://nodejs.org/)**
-
+-   **[React Native Environment Setup](https://nodejs.org/)**
 
 ## Running The Project
 
