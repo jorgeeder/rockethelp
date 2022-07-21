@@ -46,7 +46,8 @@
 
 Application layout in  **[Figma](https://www.figma.com/file/M2jZ09bh1QIkrVlw73sAwh/Rocket-Help---Ignite-Lab-(Community)?node-id=37%3A6)**
 
-🚧 under construction... 🚧
+![home](./docImages/home-rockethelp.png)
+![new request](./docImages/new-rockethelp.png)
 
 
 ## Requirement
