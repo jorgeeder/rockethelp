@@ -26,12 +26,16 @@
 
 ## About The Project
 
-🚧 under construction... 🚧
+RocketHelp is an Application for requesting maintenance of a company's internal equipment, it was developed during Rocketseat's React Native Ignite Lab, where we had Rodrigo Gonçalves Santana as an instructor.
 
 
 ## Features
 
-🚧 under construction... 🚧
+- Authentication login with firebase
+- Register a maintenance request
+- List request in progress
+- List resolved requests
+- Log out from the session 
 
 
 ## Technologies
@@ -48,8 +52,15 @@
 
 Application layout in  **[Figma](https://www.figma.com/file/M2jZ09bh1QIkrVlw73sAwh/Rocket-Help---Ignite-Lab-(Community)?node-id=37%3A6)**
 
-![home](./docImages/home-rockethelp.png)
-![new request](./docImages/new-rockethelp.png)
+See on  **[Youtube](https://youtu.be/npJlyd9Vgco)**
+
+![login](./docImages/login.png)
+![home](./docImages/home.png)
+![newRequest](./docImages/newRequest.png)
+![inProgress](./docImages/inProgress.png)
+![finalized](./docImages/finalized.png)
+![inProgressDetails](./docImages/inProgressDetails.png)
+![finalizedDetails](./docImages/finalizedDetails.png)
 
 
 ## Requirement
@@ -60,9 +71,24 @@ Application layout in  **[Figma](https://www.figma.com/file/M2jZ09bh1QIkrVlw73sA
 ## Running The Project
 
 ```
+# You can use npm package manager or yarn to run the commands below
 
-🚧 under construction... 🚧
+## Clone the repository
+git clone git@github.com:jorgeeder/rockethelp.git
 
+## Access the project folder in the terminal
+cd rockethelp
+
+## To install dependencies
+yarn
+
+## To run the Android project
+expo run:android 
+
+## or
+
+## To run the Ios project
+expo run:ios
 ```
 ## License
 
